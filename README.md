@@ -40,7 +40,3 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=AliAlfridawi&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-![Ali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AliAlfridawi&theme=radical&hide_border=true&area=true)
-
-
-![snake animation](https://github.com/AliAlfridawi/AliAlfridawi/blob/output/github-contribution-grid-snake.svg)
