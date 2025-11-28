@@ -9,7 +9,9 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />          
 <img align="left" alt="Node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+
 #
+
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alialfridawi&show_icons=true&theme=dracula)
 
 <!--
