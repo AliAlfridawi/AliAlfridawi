@@ -7,16 +7,19 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 #
 
 ### Languages and Tools 
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />          
-<img align="left" alt="Node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<div style="display: flex; gap: 10px;">
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img alt="Node" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+</div>
 
-
+#
 
 ### GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAlfridawi&show_icons=true&theme=radical)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAlfridawi&show_icons=true&theme=radical)](https://<your-vercel-project-name>.vercel.app/api?username=AliAlfridawi&show_icons=true&theme=radical
+)
 
 <!--
 **AliAlfridawi/AliAlfridawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
