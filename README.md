@@ -1,4 +1,12 @@
 # Ali Alfridawi
+
+** Electrical Engineering Student at The University of Texas at Arlington ** 
+
+I am a freshman in Electrical Engineering at the University of Texas at Arlington, with strong interests in research, photonics, and signal processing. As I continue developing my programming skills, I’m committed to creating clear, well-structured documentation for both personal and academic projects using GitHub. I am eager to learn, collaborate, and connect with others in engineering and research communities, and I’m open to networking and new opportunities.
+
+### Languages and Tools 
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
 <!--
 **AliAlfridawi/AliAlfridawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
