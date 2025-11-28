@@ -29,7 +29,6 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
   <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
 
-  <img alt="LTspice" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/LTspice_logo.svg/2048px-LTspice_logo.svg.png" />
   <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 
@@ -39,5 +38,9 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AliAlfridawi&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AliAlfridawi&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=AliAlfridawi&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
+![Ali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AliAlfridawi&theme=radical&hide_border=true&area=true)
+
+
+![snake animation](https://github.com/AliAlfridawi/AliAlfridawi/blob/output/github-contribution-grid-snake.svg)
