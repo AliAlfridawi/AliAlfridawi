@@ -6,6 +6,18 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 
 #
 
+### Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/alialfridawi" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="ama3373@mavs.uta.edu" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+#
+
 ### Languages and Tools 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -23,18 +35,9 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 
 #
 
-### Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/alialfridawi" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="ama3373@mavs.uta.edu" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ### GitHub Stats
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliAlfridawi&show_icons=true&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlfridawi&layout=compact&theme=radical&hide_border=false)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AliAlfridawi&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AliAlfridawi&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
