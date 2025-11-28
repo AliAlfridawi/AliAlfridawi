@@ -7,32 +7,34 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 #
 
 ### Languages and Tools 
-<div style="display: flex; gap: 10px;">
-  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="MATLAB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img alt="Node" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+
+  <img alt="LTspice" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/LTspice_logo.svg/2048px-LTspice_logo.svg.png" />
+  <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 
 #
 
+### Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/alialfridawi" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="ama3373@mavs.uta.edu" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ### GitHub Stats
 
-![Ali's GitHub Stats](https://github-readme-stats-alialfridawi-proxy.vercel.app/api?username=AliAlfridawi&show_icons=true&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats-alialfridawi-proxy.vercel.app/api/top-langs/?username=AliAlfridawi&layout=compact&theme=radical&hide_border=false)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliAlfridawi&show_icons=true&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlfridawi&layout=compact&theme=radical&hide_border=false)
 
-
-<!--
-**AliAlfridawi/AliAlfridawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
