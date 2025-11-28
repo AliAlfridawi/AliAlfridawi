@@ -12,7 +12,7 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 
 #
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alialfridawi)](https://github.com/alialfridawi/github-readme-stats)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAlfridawi&show_icons=true&theme=dracula) 
 
 <!--
 **AliAlfridawi/AliAlfridawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
