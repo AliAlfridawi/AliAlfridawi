@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Nature Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Ali%20Alfridawi&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%" alt="Header Banner"/>
 </p>
 
 # Ali Alfridawi
@@ -9,13 +9,13 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AliAlfridawi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   <a href="https://github.com/AliAlfridawi?tab=followers">
-    <img src="https://img.shields.io/github/followers/AliAlfridawi?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/AliAlfridawi?label=Followers&color=blueviolet&style=flat" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/AliAlfridawi?tab=following">
-    <img src="https://img.shields.io/badge/Following-Check%20Profile-blue?style=flat" alt="Following" />
+    <img src="https://img.shields.io/badge/Following-Check%20Profile-blueviolet?style=flat" alt="Following" />
   </a>
   <a href="https://github.com/AliAlfridawi?tab=stars">
-    <img src="https://img.shields.io/github/stars/AliAlfridawi?label=Stars&style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/AliAlfridawi?label=Stars&color=blueviolet&style=flat" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -65,16 +65,14 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 
 ### GitHub Stats
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AliAlfridawi&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AliAlfridawi&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=AliAlfridawi&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AliAlfridawi&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 #
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="200" alt="Cartoon Animals"/>
-  <img src="https://media.giphy.com/media/l3mZ5cLmGLKvDDjJC/giphy.gif" width="200" alt="Dancing Animals"/>
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200" alt="Cute Cat"/>
+  <img src="https://cataas.com/cat/gif?timestamp=1" width="300" alt="Random Animal GIF"/>
 </p>
 
 <p align="center">
