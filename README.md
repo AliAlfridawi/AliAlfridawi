@@ -1,6 +1,23 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Nature Animation"/>
+</p>
+
 # Ali Alfridawi
 
 **`Electrical Engineering Student at The University of Texas at Arlington`** 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AliAlfridawi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <a href="https://github.com/AliAlfridawi?tab=followers">
+    <img src="https://img.shields.io/github/followers/AliAlfridawi?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/AliAlfridawi?tab=following">
+    <img src="https://img.shields.io/badge/Following-Check%20Profile-blue?style=flat" alt="Following" />
+  </a>
+  <a href="https://github.com/AliAlfridawi?tab=stars">
+    <img src="https://img.shields.io/github/stars/AliAlfridawi?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+</p>
 
 I am a freshman in Electrical Engineering at the University of Texas at Arlington, with strong interests in research, photonics, and signal processing. As I continue developing my programming skills, I’m committed to creating clear, well-structured documentation for both personal and academic projects using GitHub. I am eager to learn, collaborate, and connect with others in engineering and research communities, and I’m open to networking and new opportunities.
 
@@ -23,13 +40,25 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="MATLAB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+  <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
   <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+  <img alt="Raspberry Pi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 </div>
 
 #
@@ -39,4 +68,16 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AliAlfridawi&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=AliAlfridawi&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+#
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="200" alt="Cartoon Animals"/>
+  <img src="https://media.giphy.com/media/l3mZ5cLmGLKvDDjJC/giphy.gif" width="200" alt="Dancing Animals"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200" alt="Cute Cat"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+collaborate!" alt="Typing SVG" />
+</p>
 
