@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Ali%20Alfridawi&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%" alt="Header Banner"/>
+  <img src="assets/fox.gif" alt="Cute Fox" width="200" />
 </p>
 
 # Ali Alfridawi

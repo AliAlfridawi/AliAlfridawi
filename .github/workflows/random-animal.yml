@@ -1,0 +1,39 @@
+name: Random Animal GIF
+
+on:
+  # Run every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  # Allow manual trigger
+  workflow_dispatch:
+  # Run on push to main/master
+  push:
+    branches: ["master", "main"]
+
+jobs:
+  update-gif:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update random animal GIF
+        run: |
+          # Array of available animal gifs
+          animals=("beaver.gif" "dear.gif" "ducks.gif" "fox.gif" "hamster.gif" "pandas.gif" "polarbear.gif")
+          
+          # Pick a random animal
+          random_animal=${animals[$RANDOM % ${#animals[@]}]}
+          
+          echo "Selected: $random_animal"
+          
+          # Update the README.md with the new random animal
+          sed -i "s|assets/[a-z]*.gif|assets/$random_animal|g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet README.md || (git add README.md && git commit -m "🦊 Update random animal gif" && git push)
