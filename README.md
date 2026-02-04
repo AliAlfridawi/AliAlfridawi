@@ -11,8 +11,8 @@
   <a href="https://github.com/AliAlfridawi?tab=followers">
     <img src="https://img.shields.io/github/followers/AliAlfridawi?label=Followers&color=blueviolet&style=flat" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/AliAlfridawi?tab=followers">
-    <img src="https://img.shields.io/github/followers/AliAlfridawi?label=Followers&style=flat&color=blueviolet" alt="Followers" />
+  <a href="https://github.com/AliAlfridawi?tab=following">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAliAlfridawi&style=flat&logo=github" alt="Following" />
   </a>
   <a href="https://github.com/AliAlfridawi?tab=stars">
     <img src="https://img.shields.io/github/stars/AliAlfridawi?label=Stars&color=blueviolet&style=flat" alt="GitHub Stars" />
