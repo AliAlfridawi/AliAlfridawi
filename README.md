@@ -65,9 +65,8 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 
 ### GitHub Stats
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AliAlfridawi&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AliAlfridawi&theme=radical&hide_border=false)](https://git.io/streak-stats)
+## My Stats
+![GitHub Metrics](./github-metrics.svg)
 
 #
 

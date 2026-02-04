@@ -1,0 +1,35 @@
+name: Metrics
+on:
+  # Schedule updates (every 12 hours)
+  schedule: [{cron: "0 */12 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing to master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: AliAlfridawi
+          template: classic
+          base: header, community, repositories, metadata
+          config_timezone: UTC
+          
+          # This saves the file as 'github-metrics.svg' in your repo
+          filename: github-metrics.svg
+          
+          # Plugins (This replaces your Trophies/Streaks)
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_habits: yes
+          plugin_habits_factoids: yes
+          plugin_habits_charts: yes
