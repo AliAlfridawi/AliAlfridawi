@@ -11,8 +11,8 @@
   <a href="https://github.com/AliAlfridawi?tab=followers">
     <img src="https://img.shields.io/github/followers/AliAlfridawi?label=Followers&color=blueviolet&style=flat" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/AliAlfridawi?tab=following">
-    <img src="https://img.shields.io/badge/Following-Check%20Profile-blueviolet?style=flat" alt="Following" />
+  <a href="https://github.com/AliAlfridawi?tab=followers">
+    <img src="https://img.shields.io/github/followers/AliAlfridawi?label=Followers&style=flat&color=blueviolet" alt="Followers" />
   </a>
   <a href="https://github.com/AliAlfridawi?tab=stars">
     <img src="https://img.shields.io/github/stars/AliAlfridawi?label=Stars&color=blueviolet&style=flat" alt="GitHub Stars" />
@@ -36,6 +36,8 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
 #
 
 ### Languages and Tools 
+
+#### Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -46,17 +48,27 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
   <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  
+</div>
+
+#### Frameworks & Libraries
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
   <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
   <img alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+</div>
+
+#### Developer Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
 
+#### Hardware
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
   <img alt="Raspberry Pi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 </div>
