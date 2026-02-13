@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/polarbear.gif" alt="Cute Fox" width="200" />
+  <img src="assets/ducks.gif" alt="Cute Fox" width="200" />
 </p>
 
 # Ali Alfridawi
