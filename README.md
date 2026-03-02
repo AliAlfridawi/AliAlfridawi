@@ -4,7 +4,7 @@
 
 # Ali Alfridawi
 
-**`Electrical Engineering Student at The University of Texas at Arlington`** 
+**`Electrical Engineering Student @ The University of Texas at Arlington`**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AliAlfridawi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
@@ -19,26 +19,29 @@
   </a>
 </p>
 
-I am a freshman in Electrical Engineering at the University of Texas at Arlington, with strong interests in research, photonics, and signal processing. As I continue developing my programming skills, I’m committed to creating clear, well-structured documentation for both personal and academic projects using GitHub. I am eager to learn, collaborate, and connect with others in engineering and research communities, and I’m open to networking and new opportunities.
+---
 
-#
+## About Me
 
-### Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/alialfridawi" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="ama3373@mavs.uta.edu" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I'm a freshman in Electrical Engineering at the University of Texas at Arlington, with focused interests in photonics, semiconductor devices, and signal processing. I enjoy bridging hardware and software — from embedded systems to data-driven analysis — and I'm actively building experience through coursework, personal projects, and research. I'm open to research positions, EE/hardware internships, and software engineering roles.
 
-#
+> **Currently open to:** Research positions · EE/Hardware internships · Software internships
 
-### Languages and Tools 
+---
+
+## Research Interests
+
+- Photonics & integrated optics
+- Semiconductor fabrication & metallization
+- Signal processing & communications
+- Embedded systems
+
+---
+
+## Languages & Tools
 
 #### Languages
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p>
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -48,45 +51,50 @@ I am a freshman in Electrical Engineering at the University of Texas at Arlingto
   <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
+</p>
 
 #### Frameworks & Libraries
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p>
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
   <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
   <img alt="TensorFlow" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-</div>
+</p>
 
 #### Developer Tools
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p>
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
+</p>
 
 #### Hardware
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p>
   <img alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
   <img alt="Raspberry Pi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
-</div>
+</p>
 
-#
+---
 
-### GitHub Stats
+## GitHub Activity
 
-## My Stats
 ![GitHub Metrics](./github-metrics.svg)
 
-#
+---
 
-<p align="center">
-  <img src="https://cataas.com/cat/gif?timestamp=1" width="300" alt="Random Animal GIF"/>
+## Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alialfridawi" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ama3373@mavs.uta.edu" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+collaborate!" alt="Typing SVG" />
 </p>
-
