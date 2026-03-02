@@ -80,7 +80,12 @@ I'm a freshman in Electrical Engineering at the University of Texas at Arlington
 
 ## GitHub Activity
 
-![GitHub Metrics](./github-metrics.svg)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliAlfridawi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlfridawi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
