@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pandas.gif" alt="Cute Fox" width="200" />
+  <img src="assets/hamster.gif" alt="Cute Fox" width="200" />
 </p>
 
 # Ali Alfridawi
